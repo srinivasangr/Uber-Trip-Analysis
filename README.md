@@ -22,7 +22,7 @@ This project provides a comprehensive analytical view of Uber ride data to suppo
 | `Uber Trip Details.xlsx` | Raw dataset used for analysis |
 | `Location Table.xlsx` | Additional mapping and reference data |
 | `fig1.JPG`, `fig2.JPG`, `fig3.JPG` | Screenshots of the dashboards |
-| `jeFa6LUKaDRzqLjAgX57cu.docx` | Project documentation and design specifications |
+
 
 ---
 
