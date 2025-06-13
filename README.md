@@ -86,9 +86,6 @@ To open and explore this dashboard:
 
 ---
 
-## 🧾 Credits
-
-**Designed & Developed by:** Swapnjeet S  
 **Visualization & UX:** Built using Power BI native visuals and DAX measures
 
 ---
